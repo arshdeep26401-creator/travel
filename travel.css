@@ -1,0 +1,161 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+header{
+    background-color: rgb(166, 195, 195);
+    justify-content: space-between;
+    gap: 10px;
+    display: flex;
+    padding: 10px 20px;
+}
+
+nav{
+    gap: 26px;
+    display: flex;
+    align-items: anchor-center;
+}
+.sign{
+    border-radius: 22px;
+
+}
+nav a:hover{
+    background-color: tomato;
+}
+.info{
+    background-color: dodgerblue;
+    padding: 10px;
+    margin-top: top;
+text-align: center;
+
+}
+img{
+    width: 500px;
+}
+.part{
+    background-color: rgb(252, 253, 254);
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    padding: 20px;
+}
+h3{
+    font-weight: 50px;
+    color: midnightblue;
+    margin-right: 0%;
+}
+.gh{
+    text-align: left;
+}
+.time{
+    width: 500px;
+    border-radius: 500px;
+    height: 200px;
+}
+.scroll{
+    width: 500px;
+    height: 200px;
+    border-radius: 500px ;
+}
+.phn{
+       background-color: rgb(252, 253, 254);
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    padding: 20px;
+}
+h4{
+    font-weight: 50px;
+    color: midnightblue;
+    margin-right: 0%;
+}
+.clock{
+        width: 500px;
+    height: 200px;
+    border-radius: 500px ;
+}
+h5{
+     font-weight: 50px;
+    color: midnightblue;
+    margin-right: 0%;
+}
+.ghumi-ghumi{
+           background-color: rgb(252, 253, 254);
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+    padding: 20px;
+}
+.btn{
+    color: azure;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 300px;
+}
+.ad{
+        background-color: rgb(98, 176, 254);
+    padding: 10px;
+    margin-top: top;
+text-align: center;
+}
+.mix{   
+     width: 500px;
+    height: 200px;
+    border-radius: 500px ;
+
+}
+h6{
+     font-size: 30px;
+    color: midnightblue;
+}
+
+.footer-1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.footer-right {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    padding: 20px;
+}
+.toy{
+    width: 500px;
+    height: 200px;
+    border-radius: 300px;
+}
+.ending{
+    text-align: center;
+}
+.list-heading{
+    font-weight: 800;
+    font-size: 17px;
+}
+
+.insta{
+    display: flex;
+    justify-content: center;
+}
+
+.insta li{
+    width: 50px;
+    height: 50px ;
+    list-style: none;
+}
+.twitter{
+    height: 2px;
+    width: 1px;
+}
+
+.footer-content svg{
+    width: 50px;
+    height: 50px;
+}
+
+@media screen {
+    
+}
